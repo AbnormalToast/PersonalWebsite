@@ -2,8 +2,8 @@ import { useState } from "react";
 
 function AboutMe() {
     return (
-        <div>
-
+        <div className="container text-center">
+            
         </div>
     )
 }
